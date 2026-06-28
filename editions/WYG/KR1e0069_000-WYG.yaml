@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1e0069/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部五
+  hash: sha256:02dd33ef1c70b837406ca8d729e4163b1ab6b8a43895174682c3937c960ea212
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0069_WYG_000-1a, image: WYG0164/WYG0164-0413a.png}
+body:
+  text: 春秋金鎖匙春秋類提要臣等謹案春秋金鎖匙一卷元趙汸撰汸有春秋師説左氏補注諸書已著於録是書撮舉聖人之特筆與春秋之大例以事之相類者互相推勘考究其異同而申明其正變葢合比事屬辭而一之大㫖春秋之初主于抑諸侯春秋之未主于抑大夫中間齊晉主盟則視其尊王與否而進退之其中如謂聖人貶把之爵降侯為子與毛伯錫命稱天王稱錫為彼此相與之詞雖尚沿舊説之陋而發揮書法條理秩然程子所謂其中數十義炳如日星者亦庶幾近之矣考宋沈棐嘗有春秋比事一書與此書大㫖相近疑汸未見其本故有此作然二書體例各殊沈詳而盡趙簡而明固不妨于並行也乾隆四十四年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:dcf67cfdac69bd0479dbd168567846dff153f0c44e699e7f233294d387dc9651
+metadata:
+  title: 春秋金鎖匙
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:15:23.801220'
+  source:
+    repository: kanripo
+    path: KR1e0069/KR1e0069_000.txt
+hash: sha256:9ff69aa6753c5cb6f62d4db116ad0a4ccd78dfa3e73d8efa1c5203e797de3a90
