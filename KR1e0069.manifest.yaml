@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR1e0069_000.yaml, hash: 'sha256:b7516795e5558ae67261ea1037e73544c13a73d6aa4bc39ccfdc4bbb7569bb5f'}
-  - {seq: 1, filename: KR1e0069_001.yaml, hash: 'sha256:cffb93dd6b35ed1a797987d443d7a60c2e333a18bfed18de4c10fdcdd9621218'}
+  - {seq: 0, filename: KR1e0069_000.yaml, hash: 'sha256:ea75f2ba7b87645a9ad42f6829169a26131a177647661d89929a2151a1529be4'}
+  - {seq: 1, filename: KR1e0069_001.yaml, hash: 'sha256:546926a76fa8698d7586f7f76eeae66f2eca140c7844bd4d85c9fd0cd25a8b13'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0069_000.markers.yaml, hash: 'sha256:a545704508e5cd07adc083f3743a3cb4ca7610d55aea22fd513e60299da2ea80'}
-  - {seq: 1, role: markers, filename: assets/KR1e0069_001.markers.yaml, hash: 'sha256:e8c5117b74cf8617199891b87c74cfeefbd5e12a7eed38f83c0d01152643e56d'}
+  - {seq: 0, role: markers, filename: assets/KR1e0069_000.markers.yaml, hash: 'sha256:c6e581478f78eb0734c0d797e1b2a17f5e323f48dc11ed8e02c44b13e5450fb0'}
+  - {seq: 1, role: markers, filename: assets/KR1e0069_001.markers.yaml, hash: 'sha256:602c15f6cd46a5487fcd8927d86c548b6e3b70f12f022103c250aa75dc41e0ac'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 春秋金鎖匙
   type: section
   level: 1
-hash: sha256:b057f81c851a0341a319c7b913338dfe3ff249ff979912b6fc62950c1bc383b1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b1b91b2723f196bee7d45e9bd6f0d4c1455f6eeb948b9df108fafd6439256074
