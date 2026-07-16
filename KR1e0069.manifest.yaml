@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1e0069_000.yaml, hash: 'sha256:942d2edddacfb4d119b14057cdd85a7da933e20d5f3b3a37bdbcac853729a007'}
   - {seq: 1, filename: KR1e0069_001.yaml, hash: 'sha256:817d2b28863214d54f4c9ab1a09f97b8e9e07e8c84ac650dba495f820be7b558'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0069_000.markers.yaml, hash: 'sha256:c1f2501bc4390e6d3a05bdfde7582b4d8aebe360e064116e0b7e0dcd50c60575'}
-  - {seq: 1, role: markers, filename: assets/KR1e0069_001.markers.yaml, hash: 'sha256:6f6122fd1dd139673e49ebb97c1d4d4d13051d42d9668045e0ea76ae0b8ca9d1'}
+  - {seq: 0, role: markers, filename: assets/KR1e0069_000.markers.yaml, hash: 'sha256:f06577da60aff85d7a7ca27b4660d3bd40fc7ce1d8d399003996b2fc732ceee5'}
+  - {seq: 1, role: markers, filename: assets/KR1e0069_001.markers.yaml, hash: 'sha256:3f015a9afb0a575753b7c53501be0f1ebcdfc1c63e5c1a1e3c46efaa76ca8598'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 春秋金鎖匙
   type: section
   level: 1
-hash: sha256:140ef2c128d1af43a7a511567007b366799f8efc972e2fcc21dd507118043912
+hash: sha256:6648c1557338f282e10e1f204a3599daf5bbdde5a1ab83f421818ea9fddde7d5
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
